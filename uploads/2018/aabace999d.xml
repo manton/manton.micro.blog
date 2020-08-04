@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
+<channel>
+<title>Manton.org</title>
+<link>http://www.manton.org/</link>
+<description>This podcast is a companion to my weblog, which covers user experience, Mac programming, feature animation, and other personal views. The podcasts are usually standalone episodes about a particular theme or event that I attend. I frame each episode around sounds that I have recorded and mix in related sampled audio and music.</description>
+<itunes:image href="https://micro.blog/manton/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Manton Reece</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Manton Reece</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<language>en</language>
+<dc:creator>manton@manton.org</dc:creator>
+<dc:date>2014-08-29T10:56:57-06:00</dc:date>
+
+<item>
+<title>Hillary</title>
+<link>http://www.manton.org/2008/02/hillary_podcast.html</link>
+<description><![CDATA[<p>About once a year I like to put together a podcast episode around a theme, and this weekend that subject is Hillary Clinton. I think I've prepared it with fairness and respect, so even if you disagree please do the same. It's both a personal expression and a way of capturing a moment.</p>
+
+<p>&raquo; <a href="https://www.manton.org/uploads/2018/4af81c5236.mp3">Download</a> (MP3, 6.2MB)</p>
+
+<p>&raquo; <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=190005619">Subscribe in iTunes</a></p>
+
+<p>It's about 13 minutes long. Enjoy.</p>]]></description>
+<guid isPermaLink="false">376@http://www.manton.org/</guid>
+<dc:subject>Podcasts</dc:subject>
+<dc:date>2008-02-18T18:23:03-06:00</dc:date>
+<enclosure url="https://www.manton.org/uploads/2018/4af81c5236.mp3" length="6498388" type="audio/mpeg" />
+</item>
+<item>
+<title>San Francisco</title>
+<link>http://www.manton.org/2006/09/san_francisco_podcast.html</link>
+<description><![CDATA[<p>My third podcast is about San Francisco. Download it here or subscribe to the podcast feed in iTunes.</p>
+
+<p>&raquo; <a href="https://www.manton.org/uploads/2018/4bee026254.mp3">Download</a> (MP3, 16.8MB)</p>
+
+<p>&raquo; <a href="http://www.manton.org/audio.xml">Audio-only RSS feed</a> (drag to iTunes)</p>
+
+<p>I had a lot of fun putting this together, recording sounds in and around San Francisco. I used my MiniDisc RH-910 and Audio-Technica AT822 microphone. Turns out the MiniDisc was a pretty bad investment, though. It has been a real hassle to use, and I am eyeing the new <a href="http://digitalmedia.oreilly.com/2006/08/31/edirol-r-09-digital-recorder-review.html">Edirol R-09</a> as a replacement.</p>
+
+<p>Go buy the music used in this podcast from Magnatune: <a href="http://magnatune.com/artists/albums/cargo-alchemy/">Cargo Cult</a>, <a href="http://magnatune.com/artists/albums/carrai-kummer/">Phoebe Carrai</a>, and <a href="http://magnatune.com/artists/albums/yoria-here/">Arthur Yoria</a>. They are building a great modern label that embraces what the internet is about instead of fighting it.</p>
+
+<p>Also special thanks to the Marin County Free Library for permission to use a portion of the Arthur Giddings interview. Check out <a href="http://www.co.marin.ca.us/depts/lb/main/crm/earthquake/firsthand/index.html">their site on the 1906 earthquake</a>.</p>
+
+<p>Other resources: <a href="http://www.nps.gov/pore/">Point Reyes</a>, <a href="http://www.sfmuseum.net/1989/sf911.html">San Francisco Police 9-1-1 Tapes</a>, <a href="http://www.ischool.berkeley.edu/~mkduggan/audiovideo.html">19th-Century California Sheet Music</a>, <a href="http://events.apple.com.edgesuite.net/aug_2006/event/index.html">WWDC 2006 Keynote</a>.</p>
+
+<p>Update: How could I leave out a link to <a href="http://www.sketchcrawl.com/">Sketchcrawl.com</a>? Also: <a href="http://en.wikipedia.org/wiki/Eadweard_Muybridge">Eadweard Muybridge</a>, <a href="http://www.enricocasarosa.com/">Enrico Casarosa</a>, and <a href="http://www.dorothea-lange.org/Resources/internet_resources.htm">Dorothea Lange</a>.</p>]]></description>
+<guid isPermaLink="false">297@http://www.manton.org/</guid>
+<dc:subject>Podcasts</dc:subject>
+<dc:date>2006-09-08T02:16:35-06:00</dc:date>
+<enclosure url="https://www.manton.org/uploads/2018/4bee026254.mp3" length="17683114" type="audio/mpeg" />
+</item>
+<item>
+<title>Video Games</title>
+<link>http://www.manton.org/2006/07/video_games_podcast.html</link>
+<description><![CDATA[<p>My second podcast episode is about video game music. You can download it here, or subscribe to the new podcast feed in iTunes.</p>
+
+<p>&raquo; <a href="https://www.manton.org/uploads/2018/13e7486d0b.mp3">Download</a> (MP3, 13.4MB)</p>
+
+<p>&raquo; <a href="http://www.manton.org/audio.xml">Audio-only <span class="caps">RSS </span>feed</a> (drag to iTunes)</p>
+
+<p>I started working on this last year but it quickly became too ambitious and stalled. I picked it up again just a couple of days ago, simplified it considerably, and got it done. As usual, I learned a bunch, and look forward to improving a few things for the next one. Enjoy!</p>
+
+<p>And some related links for the topic covered:</p>
+
+<p>Buy at Amazon: <a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN%2FB0007VDF22&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325">Lumines</a>, <a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN%2FB000CI8EXA&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325">Electroplankton</a>, <a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN%2FB0002Y2XXQ&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325">Katamari Damacy</a></p>
+
+<p>All games at Gamespot: <a href="http://www.gamespot.com/nes/adventure/legendofzelda/">Zelda</a>, <a href="http://www.gamespot.com/gameboy/puzzle/tetris/">Tetris</a>, <a href="http://www.gamespot.com/snes/action/supermarioworld/">Super Mario World</a>, <a href="http://www.gamespot.com/snes/action/supermetroid/">Super Metroid</a>, <a href="http://www.gamespot.com/turbocd/rpg/ysbookiii/">Ys Book I &amp; II</a>, <a href="http://www.gamespot.com/pc/adventure/myst/">Myst</a>, <a href="http://www.gamespot.com/ds/puzzle/electroplankton/">Electroplankton</a>, <a href="http://www.gamespot.com/n64/adventure/legendofzeldaoot/">Ocarina of Time</a>, <a href="http://www.gamespot.com/psp/puzzle/lumines/">Lumines</a>, <a href="http://www.gamespot.com/pc/strategy/myththefallenlords/">Myth</a>, <a href="http://www.gamespot.com/ps2/action/katamaridamashii/">Katamari Damacy</a></p>
+
+<p>Remix credits: <a href="http://www.archive.org/audio/audio-details-db.php?collection=opensource_audio&amp;collectionid=xoc_SMW">Super Mario World by Jason Cox</a>, <a href="http://www.ocremix.org/remix/OCR01048/">Super Metroid by The Wingless</a></p>
+
+<p>Game history: <a href="http://www.classicgaming.com/museum/tg16/">TurboGrafx-16</a>, <a href="http://www.classicgaming.com/ninjagaiden/ys/music/ys12pce.html" title="Classic Gaming">Ys I and II</a>, <a href="http://pcenginebible.roarvgm.com/HTML_Games/Ys_I_II.htm" title="PC Engine Bible">Ys I and II</a></p>
+
+<p>Music archives: <a href="http://www.vgmusic.com/"><span class="caps">VGM</span>usic.com</a>, <a href="http://www.zophar.net/music.html">Zophar's Game Music Archives</a></p>
+
+<p>More links: <a href="http://www.milezero.org/index.cgi/gaming/society/art/composing_with_electroplankton_toc.html">Composing with Electroplankton</a>, <a href="http://www.bannister.org/software/vgmusic.htm">Video game music emulators</a>, <a href="http://www.altpop.com/stc/reviews/myth.htm">Bungie's Myth</a>, <a href="http://projectmagma.net/what/">Myth II demo</a>, <a href="http://www.songbirdocarina.com/">Ocarina instrument</a></p>]]></description>
+<guid isPermaLink="false">287@http://www.manton.org/</guid>
+<dc:subject>Podcasts</dc:subject>
+<dc:date>2006-07-25T12:43:33-06:00</dc:date>
+<enclosure url="https://www.manton.org/uploads/2018/13e7486d0b.mp3" length="13962460" type="audio/mpeg" />
+</item>
+<item>
+<title>Trains</title>
+<link>http://www.manton.org/2005/08/trains_podcast.html</link>
+<description><![CDATA[<p>This is my first podcast, called Trains. If you subscribe to the main RSS feed using a podcast-aware newsreader like NetNewsWire 2.0, you may already have the MP3 in your copy of iTunes. If not, here it is for download:</p>
+
+<p>&raquo; <a href="http://www.manton.org/uploads/2018/7bea028c74.mp3">Trains</a> (MP3, 10MB)</p>
+
+<p>There is not a separate podcast feed, but you should be able to drag the <a href="http://www.manton.org/rss.xml">main RSS feed URL</a> onto the Podcasts icon in iTunes 4.9 or later to subscribe as well.</p>
+
+<p>Related links for topics in this podcast:</p>
+
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/B0000TAYSO/mantonorg">Frank and Ollie DVD</a><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B00009M9BK/mantonorg">The Iron Giant Special Edition DVD</a><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B00005KARK/mantonorg">Dumbo DVD</a><br />
+<a href="http://jrhull.typepad.com/seward_street/2005/04/frank_and_ollie.html">The Incredibles DVD secret menu</a> (Jim Hull)<br />
+<a href="http://www.sci.fi/~animato/rail/rail.html">Animators and Railroads</a> (Jan-Eric Nystrom)<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/0395287154/mantonorg">The Caboose Who Got Loose</a> (Bill Peet)<br />
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=2002219&selectedItemId=2002189">South Side</a> (Moby and Gwen Stefani)<br />
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=7036603&selectedItemId=7036599">Trainfare</a> (Toni Price)<br />
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=29600233&selectedItemId=29600267">City of Blinding Lights</a> (U2)</p>]]></description>
+<guid isPermaLink="false">246@http://www.manton.org/</guid>
+<dc:subject>Podcasts</dc:subject>
+<dc:date>2005-08-29T15:02:21-06:00</dc:date>
+<enclosure url="http://www.manton.org/uploads/2018/7bea028c74.mp3" length="10795989" type="audio/mpeg" />
+</item>
+
+
+</channel>
+</rss>
